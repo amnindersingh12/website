@@ -1,4 +1,4 @@
----
+https://amnindersingh12.github.io/Colourfull-tic-tac-toe/---
 title: "Tic Tac Toe"
 video_number: 149
 date: 2019-07-24
@@ -166,5 +166,9 @@ contributions:
     author: "idea456"
     url: "https://github.com/idea456/TicTacPro"
     source: "https://github.com/idea456/TicTacPro"
+  - title: "Colourfull Tic Tac Toe"
+    author: "Amninder Singh"
+    url: "https://amnindersingh12.github.io/Colourfull-tic-tac-toe/"
+    source: "https://github.com/amnindersingh12/Colourfull-tic-tac-toe"
 ---
 This is a beginner-friendly challenge where I attempt to code a basic version of the game Tic-Tac-Toe using JavaScript and the p5.js library.
